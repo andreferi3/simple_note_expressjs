@@ -27,5 +27,3 @@ routes(app);
 // call port and run it from config.js
 app.listen(env.PORT);
 console.log(`hello word ${env.PORT}`);
-
-export default app 
